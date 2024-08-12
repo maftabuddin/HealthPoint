@@ -1,0 +1,14 @@
+body{
+  color: aquamarine;
+}
+
+.btn-primary {
+  background-color: #007bff; /* Adjust the color as needed */
+  border-color: #007bff; /* Adjust the border color if necessary */
+  color: #fff; /* Adjust the text color */
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; /* Adjust the hover color if needed */
+  border-color: #0056b3; /* Adjust the hover border color */
+}
